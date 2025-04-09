@@ -9,9 +9,13 @@ function App() {
     <div className="App">
       <Navbar />
       <header className="App-header">
-        <h1>My First React Website</h1>
-        <p>Welcome to my website built with React!</p>
-      </header>
+  <h1>I love my girlfriend</h1>
+  <img 
+    src="/IMG_1240.jpg" 
+    alt="pook" 
+    style={{ width: '500px', margin: '20px 0' }} 
+  />
+</header>
       <main>
         <section className="content-section">
           <h2>About This Site</h2>
