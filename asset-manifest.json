@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mpandad/static/css/main.d9e5187c.css",
-    "main.js": "/mpandad/static/js/main.8c3f4bf2.js",
+    "main.js": "/mpandad/static/js/main.05b71114.js",
     "static/js/453.a05df39f.chunk.js": "/mpandad/static/js/453.a05df39f.chunk.js",
     "index.html": "/mpandad/index.html",
     "main.d9e5187c.css.map": "/mpandad/static/css/main.d9e5187c.css.map",
-    "main.8c3f4bf2.js.map": "/mpandad/static/js/main.8c3f4bf2.js.map",
+    "main.05b71114.js.map": "/mpandad/static/js/main.05b71114.js.map",
     "453.a05df39f.chunk.js.map": "/mpandad/static/js/453.a05df39f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9e5187c.css",
-    "static/js/main.8c3f4bf2.js"
+    "static/js/main.05b71114.js"
   ]
 }
